@@ -43,7 +43,7 @@ for xd in range(10000):
 	ugen2.append(uaku)
 
 
-	aa='Mozilla/5.0 (Linux; Android 12;'
+    aa='Mozilla/5.0 (Linux; Android'
     b=random.choice(['6','7','8','9','10','11','12'])
     c='Redmi Note 7 Build/SQ1A.211205.008; wv'
     d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
